@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Document/desktop/1/test/media/videos/3/480p15/partial_movie_files/PointMovingOnShapes/1185818338_22980905_4079647733.mp4'
+file 'file:D:/Document/desktop/1/test/media/videos/3/480p15/partial_movie_files/PointMovingOnShapes/624642324_92782077_2799868931.mp4'
+file 'file:D:/Document/desktop/1/test/media/videos/3/480p15/partial_movie_files/PointMovingOnShapes/624642324_3377907199_496602590.mp4'
+file 'file:D:/Document/desktop/1/test/media/videos/3/480p15/partial_movie_files/PointMovingOnShapes/624642324_1704852926_4075681448.mp4'
+file 'file:D:/Document/desktop/1/test/media/videos/3/480p15/partial_movie_files/PointMovingOnShapes/624642324_2074467902_52886629.mp4'
+file 'file:D:/Document/desktop/1/test/media/videos/3/480p15/partial_movie_files/PointMovingOnShapes/624642324_1704852926_2581423159.mp4'

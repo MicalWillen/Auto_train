@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name></name>
+<comment></comment>
+<images>
+  <image file='/home/ps/Desktop/Annotations/_0000_6f41439ab4_h_f.jpg'>
+    <box top='844' left='3776' width='140' height='60'>
+      <label>0</label>
+      <point x='3776' y='900'/>
+      <point x='3780' y='904'/>
+      <point x='3884' y='904'/>
+      <point x='3888' y='900'/>
+      <point x='3896' y='900'/>
+      <point x='3908' y='888'/>
+      <point x='3916' y='884'/>
+      <point x='3916' y='848'/>
+      <point x='3912' y='844'/>
+      <point x='3836' y='844'/>
+      <point x='3828' y='848'/>
+      <point x='3816' y='860'/>
+      <point x='3796' y='860'/>
+      <point x='3776' y='880'/>
+    </box>
+  </image>
+</images>
+</dataset>

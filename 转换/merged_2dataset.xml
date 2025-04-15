@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name></name>
+<comment></comment>
+<images>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123246725.jpg'>
+    <box top='337' left='1005' width='27' height='86'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123258723.jpg'>
+    <box top='342' left='928' width='29' height='94'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123302747.jpg'>
+    <box top='343' left='928' width='29' height='92'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227121915012.jpg'>
+    <box top='344' left='298' width='33' height='80'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123234729.jpg'>
+    <box top='342' left='900' width='33' height='95'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227121842995.jpg'>
+    <box top='343' left='284' width='30' height='81'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123210739.jpg'>
+    <box top='355' left='748' width='33' height='93'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123226755.jpg'>
+    <box top='346' left='850' width='45' height='93'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123314744.jpg'>
+    <box top='348' left='789' width='33' height='98'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227121239138.jpg'>
+    <box top='353' left='294' width='31' height='85'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227122914819.jpg'>
+    <box top='860' left='1514' width='155' height='128'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227122918801.jpg'>
+    <box top='864' left='260' width='124' height='118'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123254731.jpg'>
+    <box top='340' left='980' width='36' height='89'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123218736.jpg'>
+    <box top='345' left='851' width='46' height='93'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123214761.jpg'>
+    <box top='347' left='838' width='37' height='95'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227120955181.jpg'>
+    <box top='866' left='765' width='119' height='177'>
+      <label>A</label>
+    </box>
+    <box top='323' left='175' width='30' height='70'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123306718.jpg'>
+    <box top='353' left='845' width='35' height='93'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227121846989.jpg'>
+    <box top='342' left='298' width='26' height='81'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227121219124.jpg'>
+    <box top='931' left='1625' width='113' height='124'>
+      <label>A</label>
+    </box>
+    <box top='330' left='633' width='22' height='63'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123310717.jpg'>
+    <box top='352' left='836' width='29' height='94'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227121611044.jpg'>
+    <box top='358' left='251' width='33' height='87'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227121615064.jpg'>
+    <box top='358' left='250' width='34' height='88'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227121315124.jpg'>
+    <box top='359' left='258' width='28' height='89'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227121235123.jpg'>
+    <box top='338' left='354' width='31' height='85'>
+      <label>A</label>
+    </box>
+    <box top='304' left='1106' width='20' height='70'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227121910984.jpg'>
+    <box top='342' left='302' width='30' height='83'>
+      <label>A</label>
+    </box>
+    <box top='282' left='1090' width='18' height='76'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227121903009.jpg'>
+    <box top='341' left='303' width='30' height='84'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123250759.jpg'>
+    <box top='339' left='1027' width='31' height='89'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227121858990.jpg'>
+    <box top='342' left='297' width='25' height='80'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227121854990.jpg'>
+    <box top='342' left='298' width='26' height='81'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227121635050.jpg'>
+    <box top='458' left='0' width='42' height='105'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123206761.jpg'>
+    <box top='373' left='577' width='29' height='90'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123130758.jpg'>
+    <box top='726' left='0' width='28' height='157'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123238750.jpg'>
+    <box top='343' left='924' width='30' height='93'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123230744.jpg'>
+    <box top='347' left='854' width='41' height='92'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227120951196.jpg'>
+    <box top='327' left='100' width='25' height='64'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227121607055.jpg'>
+    <box top='356' left='250' width='34' height='89'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123222733.jpg'>
+    <box top='346' left='851' width='44' height='93'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227121906984.jpg'>
+    <box top='342' left='303' width='29' height='83'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123202765.jpg'>
+    <box top='376' left='496' width='32' height='98'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123158741.jpg'>
+    <box top='405' left='381' width='42' height='110'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227121819003.jpg'>
+    <box top='419' left='0' width='37' height='102'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227123242726.jpg'>
+    <box top='341' left='924' width='30' height='94'>
+      <label>A</label>
+    </box>
+  </image>
+  <image file='/home/ps/Desktop/OUYA/pic2/4_20250227121851015.jpg'>
+    <box top='342' left='298' width='26' height='80'>
+      <label>A</label>
+    </box>
+  </image>
+</images>
+</dataset>

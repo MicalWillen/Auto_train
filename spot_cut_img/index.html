@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flask SocketIO Example</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.0/socket.io.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var socket = io.connect('http://' + document.domain + ':' + location.port);
+
+            socket.on('connect', function() {
+                socket.emit('start_process');
+            });
+
+            socket.on('log', function(msg) {
+                var logDiv = document.getElementById('log');
+                logDiv.innerHTML += '<p>' + msg.data + '</p>';
+                logDiv.scrollTop = logDiv.scrollHeight;
+            });
+        });
+    </script>
+</head>
+<body>
+    <h1>Flask SocketIO Example</h1>
+    <div id="log" style="height: 300px; overflow-y: scroll;"></div>
+</body>
+</html>
