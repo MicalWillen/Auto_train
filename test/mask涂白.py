@@ -1,3 +1,4 @@
+import os
 import json
 import cv2
 import numpy as np
@@ -25,5 +26,29 @@ def apply_mask(image_path, json_path, output_path):
     result_image = Image.fromarray(mask)
     result_image.save(output_path)
 
+def process_folder(image_folder, json_folder, output_folder):
+    # 确保输出文件夹存在
+    os.makedirs(output_folder, exist_ok=True)
+    
+    # 遍历图片文件夹中的所有文件
+    for image_file in os.listdir(image_folder):
+        if image_file.endswith('.bmp') or image_file.endswith('.jpg') or image_file.endswith('.png'):
+            # 构建对应的 JSON 文件路径
+            json_file = os.path.splitext(image_file)[0] + '.json'
+            image_path = os.path.join(image_folder, image_file)
+            json_path = os.path.join(json_folder, json_file)
+            output_path = os.path.join(output_folder, os.path.splitext(image_file)[0] + '_mask.png')
+            
+            # 检查 JSON 文件是否存在
+            if os.path.exists(json_path):
+                apply_mask(image_path, json_path, output_path)
+                print(f"Processed: {image_file}")
+            else:
+                print(f"JSON file not found for: {image_file}")
+
 # 使用示例
-apply_mask(r'D:\Document\desktop\1\test\108_0_0.bmp', r'D:\Document\desktop\1\test\108_0_0.json', 'output.png')
+process_folder(
+    r'/home/ps/Desktop/test_img/test',  # 图片文件夹路径
+    r'/home/ps/Desktop/test_img/test',   # JSON 文件夹路径
+    r'/home/ps/Desktop/test_img/test1'  # 输出文件夹路径
+)
