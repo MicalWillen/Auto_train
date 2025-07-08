@@ -70,7 +70,7 @@ def convert_annotations_to_dataset(image_folder, annotation_folder, output_file)
 
 # 使用示例
 convert_annotations_to_dataset(
-    '/home/ps/AB/item/bentian/打刻/进模型/0331/xml/img',  # 图片路径文件夹
-    '/home/ps/AB/item/bentian/打刻/进模型/0331/xml/Annotations',  # XML 标签文件夹
-    '/home/ps/AB/item/bentian/打刻/进模型/0331/xml/img.xml'  # 输出文件
+    '/home2/item/jinlong/DCFZ/每日修改/0603（复件）/IMG',  # 图片路径文件夹
+    '/home2/item/jinlong/DCFZ/每日修改/0603（复件）/Annotations',  # XML 标签文件夹
+    '/home2/item/jinlong/DCFZ/每日修改/0603（复件）/img.xml'  # 输出文件
 )

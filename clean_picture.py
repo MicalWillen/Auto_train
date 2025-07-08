@@ -1,7 +1,7 @@
 import os
 from tqdm import tqdm
 
-def remove_extra_files(root_dir, valid_extensions=[".jpg", ".bmp"], check_extension=".txt"):
+def remove_extra_files(root_dir, valid_extensions=[".jpg", ".bmp",".png"], check_extension=".txt"):
     """
     删除没有对应txt文件的jpg或bmp文件。
 
@@ -35,5 +35,5 @@ def remove_extra_files(root_dir, valid_extensions=[".jpg", ".bmp"], check_extens
                     print(f"Removed: {file_path}")
 
 if __name__ == "__main__":
-    root = r"D:\Document\desktop\yolov5-master\yolov5-master\item\sabers\runs\detect\exp062619"
+    root = r"/home/ps/AB/framework/rf-detr-develop/pridect/22/output_images"
     remove_extra_files(root)

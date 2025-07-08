@@ -2,7 +2,7 @@ import os
 from tqdm import tqdm
 
 # 删除空的 .txt 文件
-root = r"D:\国显\4\cut\2_black_cut"
+root = r"/home/ps/AB/framework/rf-detr-develop/pridect/22/output_labels"
 
 # 确保路径存在
 if not os.path.exists(root):

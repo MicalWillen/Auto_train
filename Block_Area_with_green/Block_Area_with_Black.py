@@ -7,10 +7,10 @@ from tqdm import tqdm
 if __name__ == '__main__':
     # lab_img_dir存储标注，如果没有存储路径会自动创建
     # 使用opencv读取图片路径不能有中文
-    mask_labels = [50]
-    ori_img_dir = r'D:\A\TC\TC_datasets'
+    mask_labels = [11]
+    ori_img_dir = r'/home2/datsests/MOT/MOT20/train/train/ALL1'
     txt_dir = ori_img_dir
-    save_dir = r'D:\A\TC\s6d'
+    save_dir = r'/home2/datsests/MOT/MOT20/train/train/ALL11'
 
     if not os.path.exists(save_dir):
         os.makedirs(save_dir)

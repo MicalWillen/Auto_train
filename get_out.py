@@ -19,5 +19,5 @@ def move_files_to_outer_folder(folder_path):
             if not os.listdir(dir_path):  # 检查文件夹是否为空
                 os.rmdir(dir_path)
 
-Yolo = r"/home/ps/AB/item/bentian/其他/其他/zip/20250414/20250211-1-效果图/曲轴缸壁1"
+Yolo = r"/home/ps/AB/framework/rf-detr-develop/pridect/24"
 move_files_to_outer_folder(Yolo)

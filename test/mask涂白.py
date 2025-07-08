@@ -48,7 +48,7 @@ def process_folder(image_folder, json_folder, output_folder):
 
 # 使用示例
 process_folder(
-    r'/home/ps/Desktop/test_img/test',  # 图片文件夹路径
-    r'/home/ps/Desktop/test_img/test',   # JSON 文件夹路径
-    r'/home/ps/Desktop/test_img/test1'  # 输出文件夹路径
+    r'/home2/item/FX/cotracker/0630/111/PutBox1',  # 图片文件夹路径
+    r'/home2/item/FX/cotracker/0630/111/PutBox1',   # JSON 文件夹路径
+    r'/home2/item/FX/cotracker/0630/111/PutBox11'  # 输出文件夹路径
 )

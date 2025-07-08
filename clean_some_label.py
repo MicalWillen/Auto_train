@@ -16,9 +16,9 @@ def update_yolo_annotations(input_file, category_to_remove):
         file.writelines(updated_lines)
 
 
-path = r'D:\Document\文档\WXWork\1688855780506589\Cache\File\2025-03\NG\2L0YNC6H2706J4_1\labeled'
+path = r'/home/ps/AB/framework/rf-detr-develop/pridect/24/picture/type_3'
 
-category_to_remove = 8
+category_to_remove = 2
 for file in os.listdir(path):
     if file.endswith(".txt"):
         file_path = os.path.join(path, file)

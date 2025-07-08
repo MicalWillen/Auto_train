@@ -200,7 +200,7 @@ def plot_txt_counts_and_bar_chart(root_dir, root_folder):
     print(f"图表已保存到: {output_file}")
 
 # 示例调用
-root_folder = r'D:\sabers\clear\0224\images'
+root_folder = r'/home2/item/jinlong/DCFZ/进模型/0603'
 root_directory = os.path.join(root_folder,"picture") 
 
 plot_txt_counts_and_bar_chart(root_directory, root_folder)
